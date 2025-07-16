@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "topics/meta/meta.html",
-    "href": "topics/meta/meta.html",
-    "title": "Meta-analysis of single-case studies",
-    "section": "",
-    "text": "Project A"
-  },
-  {
-    "objectID": "topics/effect/effect.html",
-    "href": "topics/effect/effect.html",
-    "title": "SCED and effectiveness research",
-    "section": "",
-    "text": "Project x"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SCED",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
     "text": "Meta-analysis of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSCED and effectiveness research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment mediators in single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/diss.html#presentations",
+    "href": "pages/diss.html#presentations",
+    "title": "Dissemination",
+    "section": "Presentations",
+    "text": "Presentations"
+  },
+  {
+    "objectID": "pages/diss.html#workshops",
+    "href": "pages/diss.html#workshops",
+    "title": "Dissemination",
+    "section": "Workshops",
+    "text": "Workshops"
+  },
+  {
+    "objectID": "topics/quality/quality.html",
+    "href": "topics/quality/quality.html",
+    "title": "Quality of single-case studies",
+    "section": "",
+    "text": "Project A"
   },
   {
     "objectID": "topics/mediators/mediators.html",
@@ -28,10 +35,45 @@
     "text": "Project A"
   },
   {
-    "objectID": "topics/quality/quality.html",
-    "href": "topics/quality/quality.html",
-    "title": "Quality of single-case studies",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sceds4youth",
+    "section": "",
+    "text": "We are sceds4youth"
+  },
+  {
+    "objectID": "index.html#our-mission",
+    "href": "index.html#our-mission",
+    "title": "sceds4youth",
+    "section": "Our mission",
+    "text": "Our mission"
+  },
+  {
+    "objectID": "index.html#who-we-are",
+    "href": "index.html#who-we-are",
+    "title": "sceds4youth",
+    "section": "Who we are",
+    "text": "Who we are"
+  },
+  {
+    "objectID": "topics/effect/effect.html",
+    "href": "topics/effect/effect.html",
+    "title": "SCED and effectiveness research",
+    "section": "",
+    "text": "Project x"
+  },
+  {
+    "objectID": "topics/meta/meta.html",
+    "href": "topics/meta/meta.html",
+    "title": "Meta-analysis of single-case studies",
     "section": "",
     "text": "Project A"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Our email address"
   }
 ]
