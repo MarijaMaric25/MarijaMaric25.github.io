@@ -1,5 +1,20 @@
+media: images
 content:
-  - name: home
-    label: Home
+  - name: about
+    label: About
     type: file
     path: index.qmd
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: subtitle, label: Subtitle, type: string, required: true }
+      - name: about
+        label: About page config
+        type: object
+        fields:
+          - name: template
+            label: Template
+            type: select
+            options:
+              values: [ jolla, trestles, solana, marquee, broadside]
+          - { name: image, label: Image, type: image}
+      - { name: body, label: Body, type: rich-text }
