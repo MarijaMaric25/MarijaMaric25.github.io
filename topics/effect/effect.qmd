@@ -1,6 +1,0 @@
----
-title: SCED and effectiveness research
-image: atom.png
----
-
-# Project x
