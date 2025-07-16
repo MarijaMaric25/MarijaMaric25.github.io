@@ -11,13 +11,16 @@ content:
     type: file
     fields:
       - name: project
+        type: object
         hidden: true
         fields: 
           - { name: type, default: website, type: string}
       - name: website
+        type: object
         fields:
           - { name: title, label: Title, type: string}
           - name: navbar
+            type: object
             fields:
               - { name: background, label: Background color, type: string}
               - name: left
