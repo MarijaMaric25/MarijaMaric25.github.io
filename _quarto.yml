@@ -10,9 +10,9 @@ website:
       - text: Projects
         href: projects.qmd
       - text: Collaborations
-        href: pages/collabs.qmd
+        href: pages/collaborations.qmd
       - text: Dissemination
-        href: pages/diss.qmd
+        href: pages/dissemination.qmd
       - text: News
         href: pages/news.qmd
       - text: Contact
