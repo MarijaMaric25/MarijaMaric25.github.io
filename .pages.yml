@@ -1,5 +1,17 @@
 media: images
 content:
+  - name: config
+    label: Quarto config
+    path: _quarto.yml
+    type: file
+    fields:
+      - name: website
+        type: object
+        fields:
+          - name: navbar
+            type: object
+            fields:
+              - { name: background, label: Background color, type: string}
   - name: about
     label: About
     type: file
@@ -18,8 +30,17 @@ content:
               values: [ jolla, trestles, solana, marquee, broadside]
           - { name: image, label: Image, type: image}
       - { name: body, label: Body, type: rich-text }
-  - name: topics
-    label: Topics
+  - name: projects
+    label: Projects
+    path: topics
+    type: collection
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: image, label: Image, type: image}
+      - { name: body, label: Body, type: rich-text }
+    filename: "{primary}.md"
+  - name: pages
+    label: Pages
     path: topics
     type: collection
     fields:
