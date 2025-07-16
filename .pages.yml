@@ -1,9 +1,4 @@
 media:
-  - name: files
-    label: Page files
-    input: ""
-    output: /files/pages
-    extensions: [ qmd ]
   - name: images
     label: Images
     input: images
@@ -18,10 +13,10 @@ content:
       - name: project
         hidden: true
         fields: 
-          - { name: type, default: website}
+          - { name: type, default: website, type: string}
       - name: website
         fields:
-          - { name: title, label: Title}
+          - { name: title, label: Title, type: string}
           - name: navbar
             fields:
               - { name: background, label: Background color, type: string}
@@ -32,18 +27,15 @@ content:
                 fields:
                   - { name: text, label: Page name, type: string}
                   - name: href
-                    label: File
-                    type: file
-                    options:
-                      media: files
-                      path: pages
+                    label: File path
+                    type: string
       - name: format
         fields:
           - name: html
             fields:
-              - { name: theme, label: Theme, default: cosmo}
-              - { name: css, hidden: true, default: styles.css}
-              - { name: toc, hidden: true, default: true}
+              - { name: theme, label: Theme, default: cosmo, type: string}
+              - { name: css, hidden: true, default: styles.css, type: string}
+              - { name: toc, hidden: true, default: true, type: string}
   - name: about
     label: About
     type: file
