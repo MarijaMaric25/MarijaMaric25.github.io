@@ -7,20 +7,6 @@
     "text": "MetaSCED\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/diss.html#presentations",
-    "href": "pages/diss.html#presentations",
-    "title": "Dissemination",
-    "section": "Presentations",
-    "text": "Presentations"
-  },
-  {
-    "objectID": "pages/diss.html#workshops",
-    "href": "pages/diss.html#workshops",
-    "title": "Dissemination",
-    "section": "Workshops",
-    "text": "Workshops"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "sceds4youth",
@@ -47,5 +33,19 @@
     "title": "Contact",
     "section": "",
     "text": "Our email address"
+  },
+  {
+    "objectID": "pages/dissemination.html#presentations",
+    "href": "pages/dissemination.html#presentations",
+    "title": "Dissemination",
+    "section": "Presentations",
+    "text": "Presentations"
+  },
+  {
+    "objectID": "pages/dissemination.html#workshops",
+    "href": "pages/dissemination.html#workshops",
+    "title": "Dissemination",
+    "section": "Workshops",
+    "text": "Workshops"
   }
 ]
