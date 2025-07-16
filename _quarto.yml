@@ -1,12 +1,22 @@
 project:
   type: website
 website:
-  title: asdf
+  title: sceds4youth
   navbar:
-    background: "#2596be"
+    background: "#ede3ee"
     left:
       - text: About
         href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Collaborations
+        href: pages/collabs.qmd
+      - text: Dissemination
+        href: pages/diss.qmd
+      - text: News
+        href: pages/news.qmd
+      - text: Contact
+        href: pages/contact.qmd
 format:
   html:
     theme: cosmo
