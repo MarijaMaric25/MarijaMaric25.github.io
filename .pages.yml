@@ -1,17 +1,49 @@
-media: images
+media:
+  - name: files
+    label: Page files
+    input: ""
+    output: /files/pages
+    extensions: [ qmd ]
+  - name: images
+    label: Images
+    input: images
+    output: /images
+    extensions: [ png, jpg ]
 content:
   - name: config
     label: Quarto config
     path: _quarto.yml
     type: file
     fields:
+      - name: project
+        hidden: true
+        fields: 
+          - { name: type, default: website}
       - name: website
-        type: object
         fields:
+          - { name: title, label: Title}
           - name: navbar
-            type: object
             fields:
               - { name: background, label: Background color, type: string}
+              - name: left
+                label: Navigation bar
+                type: object
+                list: true
+                fields:
+                  - { name: text, label: Page name, type: string}
+                  - name: href
+                    label: File
+                    type: file
+                    options:
+                      media: files
+                      path: pages
+      - name: format
+        fields:
+          - name: html
+            fields:
+              - { name: theme, label: Theme, default: cosmo}
+              - { name: css, hidden: true, default: styles.css}
+              - { name: toc, hidden: true, default: true}
   - name: about
     label: About
     type: file
