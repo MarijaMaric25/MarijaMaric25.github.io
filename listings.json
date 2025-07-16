@@ -7,6 +7,7 @@
       "/topics/quality/quality.html",
       "/topics/effect/effect.html",
       "/topics/mediators/mediators.html",
+      "/topics/asdf.html",
       "/topics/{title}-1.html",
       "/topics/2025-07-16-test.html",
       "/topics//{title/}.html"
