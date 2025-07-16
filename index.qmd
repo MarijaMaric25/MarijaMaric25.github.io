@@ -2,7 +2,7 @@
 title: sceds4youth
 subtitle: Research and Training Centre
 about:
-  template: jolla
+  template: trestles
   image: /images/alex-guillaume-9ryDejvQulo-unsplash.jpg
 ---
 We are sceds4youth
