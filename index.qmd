@@ -1,10 +1,13 @@
 ---
-title: ""
-listing:
-  contents: topics
-  type: grid
-  grid-columns: 2
+title: "sceds4youth"
+subtitle: "Research and Training Centre"
+about:
+  template: trestles
+  image: images/alex-guillaume-9ryDejvQulo-unsplash.jpg
 ---
 
-:::{#topics}
-:::
+We are sceds4youth
+
+## Our mission
+
+## Who we are
