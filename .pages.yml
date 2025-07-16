@@ -1,5 +1,46 @@
-media: images
+media:
+  - name: images
+    label: Images
+    input: images
+    output: /images
+    extensions: [ png, jpg ]
 content:
+  - name: config
+    label: Quarto config
+    path: _quarto.yml
+    type: file
+    fields:
+      - name: project
+        type: object
+        hidden: true
+        fields: 
+          - { name: type, default: website, type: string}
+      - name: website
+        type: object
+        fields:
+          - { name: title, label: Title, type: string}
+          - name: navbar
+            type: object
+            fields:
+              - { name: background, label: Background color, type: string}
+              - name: left
+                label: Navigation bar
+                type: object
+                list: true
+                fields:
+                  - { name: text, label: Page name, type: string}
+                  - name: href
+                    label: File path
+                    type: string
+      - name: format
+        type: object
+        fields:
+          - name: html
+            type: object
+            fields:
+              - { name: theme, label: Theme, default: cosmo, type: string}
+              - { name: css, hidden: true, default: styles.css, type: string}
+              - { name: toc, hidden: true, default: true, type: boolean}
   - name: about
     label: About
     type: file
@@ -18,8 +59,17 @@ content:
               values: [ jolla, trestles, solana, marquee, broadside]
           - { name: image, label: Image, type: image}
       - { name: body, label: Body, type: rich-text }
-  - name: topics
-    label: Topics
+  - name: projects
+    label: Projects
+    path: topics
+    type: collection
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: image, label: Image, type: image}
+      - { name: body, label: Body, type: rich-text }
+    filename: "{primary}.md"
+  - name: pages
+    label: Pages
     path: topics
     type: collection
     fields:
