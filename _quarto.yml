@@ -1,29 +1,3 @@
-project:
-  type: website
-
 website:
-  title: "sceds4youth"
   navbar:
-    background: "#ede3ee"
-    left:
-      - href: index.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: pages/collabs.qmd
-        text: Collaborations
-      - href: pages/diss.qmd
-        text: Dissemination
-      - href: pages/news.qmd
-        text: News
-      - href: pages/contact.qmd
-        text: Contact
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    background: "#2596be"
