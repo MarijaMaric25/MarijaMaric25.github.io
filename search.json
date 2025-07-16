@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Meta-analysis of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSCED and effectiveness research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment mediators in single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Meta-analysis of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSCED and effectiveness research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment mediators in single-case studies\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/diss.html#presentations",
@@ -21,18 +21,18 @@
     "text": "Workshops"
   },
   {
-    "objectID": "topics/meta/meta.html",
-    "href": "topics/meta/meta.html",
-    "title": "Meta-analysis of single-case studies",
+    "objectID": "topics/quality/quality.html",
+    "href": "topics/quality/quality.html",
+    "title": "Quality of single-case studies",
     "section": "",
     "text": "Project A"
   },
   {
-    "objectID": "topics/effect/effect.html",
-    "href": "topics/effect/effect.html",
-    "title": "SCED and effectiveness research",
+    "objectID": "topics/mediators/mediators.html",
+    "href": "topics/mediators/mediators.html",
+    "title": "Treatment mediators in single-case studies",
     "section": "",
-    "text": "Project x"
+    "text": "Project A"
   },
   {
     "objectID": "index.html",
@@ -56,16 +56,16 @@
     "text": "Who we are"
   },
   {
-    "objectID": "topics/mediators/mediators.html",
-    "href": "topics/mediators/mediators.html",
-    "title": "Treatment mediators in single-case studies",
+    "objectID": "topics/effect/effect.html",
+    "href": "topics/effect/effect.html",
+    "title": "SCED and effectiveness research",
     "section": "",
-    "text": "Project A"
+    "text": "Project x"
   },
   {
-    "objectID": "topics/quality/quality.html",
-    "href": "topics/quality/quality.html",
-    "title": "Quality of single-case studies",
+    "objectID": "topics/meta/meta.html",
+    "href": "topics/meta/meta.html",
+    "title": "Meta-analysis of single-case studies",
     "section": "",
     "text": "Project A"
   },
