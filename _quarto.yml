@@ -4,6 +4,9 @@ website:
   title: asdf
   navbar:
     background: "#2596be"
+    left:
+      - text: About
+        href: index.qmd
 format:
   html:
     theme: cosmo
