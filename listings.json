@@ -3,6 +3,7 @@
     "listing": "/projects.html",
     "items": [
       "/topics/meta/meta.html",
+      "/topics/{title}.html",
       "/topics/quality/quality.html",
       "/topics/effect/effect.html",
       "/topics/mediators/mediators.html",
