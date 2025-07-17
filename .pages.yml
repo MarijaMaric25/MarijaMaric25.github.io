@@ -23,7 +23,7 @@ content:
             fields:
               - name: background
                 label: Background color
-                description: Hex color code, e.g. #ede3ee
+                description: Hex color code, e.g. "#ede3ee"
                 type: string
                 pattern: ^#[A-Fa-f0-9]{6}$
               - name: left
