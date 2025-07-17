@@ -3,7 +3,6 @@ media:
     label: Images
     input: images
     output: /images
-    extensions: [ png, jpg ]
 content:
   - name: config
     label: Quarto config
@@ -38,7 +37,12 @@ content:
           - name: html
             type: object
             fields:
-              - { name: theme, label: Theme, default: cosmo, type: string}
+              - name: theme
+                label: Theme
+                default: cosmo
+                type: select
+                options:
+                  values: [default, cerulean, cosmo, cyborg, darkly, flatly, journal, litera, lumen, lux, materia, minty, morph, pulse, quartz, sandstone, simplex, sketchy, slate, solar, spacelab, superhero, united, vapor, yeti, zephyr]
               - { name: css, hidden: true, default: styles.css, type: string}
               - { name: toc, hidden: true, default: true, type: boolean}
   - name: about
