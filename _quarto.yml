@@ -19,6 +19,6 @@ website:
         href: pages/contact.qmd
 format:
   html:
-    theme: darkly
+    theme: cosmo
     css: styles.css
     toc: true
