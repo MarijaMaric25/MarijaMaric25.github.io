@@ -32,7 +32,7 @@ content:
                 list:
                   collapsible:
                     collapsed: true
-                    summary: "{text}"
+                    summary: "{fields.text}"
                 fields:
                   - { name: text, label: Page name, type: string}
                   - name: href
