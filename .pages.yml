@@ -23,18 +23,22 @@ content:
             fields:
               - name: background
                 label: Background color
-                description: Hex color code, e.g. \#ede3ee
+                description: Hex color code, e.g. #ede3ee
                 type: string
                 pattern: ^#[A-Fa-f0-9]{6}$
               - name: left
                 label: Navigation bar
                 type: object
-                list: true
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{text}"
                 fields:
                   - { name: text, label: Page name, type: string}
                   - name: href
                     label: File path
                     type: string
+                    pattern: ^[A-Za-z]+.qmd$
       - name: format
         type: object
         fields:
