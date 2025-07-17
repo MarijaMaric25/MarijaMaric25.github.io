@@ -21,7 +21,11 @@ content:
           - name: navbar
             type: object
             fields:
-              - { name: background, label: Background color, type: string}
+              - name: background
+                label: Background color
+                description: Hex color code, e.g. \#ede3ee
+                type: string
+                pattern: ^#[A-Fa-f0-9]{6}$
               - name: left
                 label: Navigation bar
                 type: object
