@@ -2,3 +2,10 @@
 title: Collaborations
 ---
 ## Methodology and Data Science
+
+| Method |     |     |
+| --- | --- | --- |
+| 1   |     |     |
+| 2   |     |     |
+
+![](/images/abhi-verma-2Mw-A70xml4-unsplash.jpg)
