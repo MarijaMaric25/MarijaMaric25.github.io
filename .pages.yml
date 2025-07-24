@@ -3,6 +3,10 @@ media:
     label: Images
     input: images
     output: /images
+  - name: pdf
+    label: PDF
+    input: pdf_files
+    output: /pdf_files
 content:
   - name: config
     label: Quarto config
