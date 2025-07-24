@@ -1,5 +1,12 @@
 ---
-title: "News"
+title: News
 ---
+**August 31st, 2025, SCED data entry tool version 1.0 finalized!**
 
-## Activities
+In the past year together with colleagues from Data Science Center (UvA) and software engineers from UvA Library, we worked on a user-friendly tool that will help us extract single-case data in a more efficient way and will enhance accuracy of extraction. We are very happy to be using this tool in the upcoming year with our next MetaSCED projects!
+
+ **September 29th, 2025, Data Science Institute seminar, University of Amsterdam** This day we will present how we use data science methods in our project on multilevel meta-analysis of single-case studies in youth, at the Data Science Institute seminar, University of Amsterdam, the Netherlands.
+
+**October 3rd, 2025, NedKAD Conference (Dutch Knowledge Center for Anxiety, Obsessive Compulsive Disorder, and Depression)**
+
+Marija will give a workshop during this day on how single-case research and individualized approach can be used to support transdiagnostic thinking and working in youth mental health practice.
