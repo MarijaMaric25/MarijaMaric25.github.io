@@ -1,6 +1,7 @@
 ---
 title: sceds4youth
-subtitle: Research and Training Centre
+subtitle: Research and Training Centre sceds are within-person comparisons of
+  treatment effects. we apply it to youth intervention research!
 about:
   template: trestles
   image: /images/Dia1.jpeg
