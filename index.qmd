@@ -1,11 +1,12 @@
 ---
 title: sceds4youth
-subtitle: Research and Training Centre sceds are within-person comparisons of
-  treatment effects. we apply it to youth intervention research!
+subtitle: Research and Training Centre
 about:
   template: trestles
   image: /images/Dia1.jpeg
 ---
+<p style="text-align: center"><strong><em>sceds stand for single-case experimental designs: within-person comparisons of treatment effects. we apply it to youth intervention research!</em></strong></p>
+
 About us
 
 We are a team of researchers and scientist-practicioners passionate about improving the science and practice of treatments for youth psychopathology. While tremendous amount of progress has been made with regard to the knowledge on the efficacy and effectiveness of youth treatments in the past decades, some questions still remain unresolved: Why don’t some youths improve after treatment? Hoe can we individually tailor treatments for youths and investigate effects? What are the working mechanisms (mediators) responsible for the effects? How can we personalize, and how can we really bridge the gap between science and practice, and create more evidence-based youth clinical practice? To answer these and similar questions we implement single-case experimental design methods, and we train scientist-practicioners in becoming capable to do so as well. Take a look at our webpage.
