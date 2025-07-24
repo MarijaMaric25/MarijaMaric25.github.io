@@ -1,11 +1,10 @@
 ---
 title: Collaborations
 ---
-## Methodology and Data Science
+We strongly believe that, to achieve high impact youth intervention research, rigorous methodology and data science is necessary. Therefore, we collaborate happily and successfully with colleagues specialized in single-case data-analysis, and in data collection, preparation, and quality of the data.
 
-| Method |     |     |
+|     |     |     |
 | --- | --- | --- |
-| 1   |     |     |
-| 2   |     |     |
+|     |     |     |
 
 ![](/images/abhi-verma-2Mw-A70xml4-unsplash.jpg)
