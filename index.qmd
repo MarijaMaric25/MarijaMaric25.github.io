@@ -1,9 +1,8 @@
 ---
 title: sceds4youth
-subtitle: "Research and Training
-  Centre                                                                                                                 \
-  sceds stand for single-case experimental designs: within-person comparisons of
-  treatment effects. we apply it to youth intervention research!"
+subtitle: "Research and Training Centre - sceds stand for single-case
+  experimental designs: within-person comparisons of treatment effects. we apply
+  it to youth intervention research!"
 about:
   template: trestles
   image: /images/Dia1.jpeg
