@@ -1,6 +1,18 @@
 ---
 title: Collaborations
 ---
-We strongly believe that, to achieve high impact youth intervention research, rigorous methodology and data science is necessary. Therefore, we collaborate happily and successfully with colleagues specialized in single-case data-analysis, and in data collection, preparation, and quality of the data.
+![](/images/images-2.png)
 
-[Link to test pdf](https://github.com/marijamaric25/marijamaric25.github.io/blob/main/pdf_files/test.pdf)
+We strongly believe that, to achieve high impact youth intervention research, rigorous methodology and data science is necessary. Therefore, we collaborate happily and successfully with colleagues specialized in single-case data-analysis, and in data collection, preparation, and quality of the data. Recent initiatives include collaborations with AI-scientists.
+
+Our collaborations:
+
+*   professor Wim van den Noortgate en professor Patrick Onghena, KU Leuven
+    
+*   professor David MacKinnon, Arizona State University
+    
+*   Max Paulus, PhD, Research Lab, UvA
+    
+*   Data Science Center UvA
+    
+*   Jan-Christoph Kalo, Intelligent Data Engineering Lab, UvA
