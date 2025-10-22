@@ -10,7 +10,7 @@ about:
 
 ![](/images/Afbeelding2.png)
 
-From left to right: Yvonne Stikkelbroek, Marija Maric, Shawn Kok, Laura Fetz, Martijn Meulenbroek
+<p style="text-align: center"><strong>From left to right: Yvonne Stikkelbroek, Marija Maric, Shawn Kok, Laura Fetz, Martijn Meulenbroek</strong></p>
 
 _We are thankful to Max Paulus from the UvA Research Lab and dog Lucky for helping us create these pages!_ 
 
