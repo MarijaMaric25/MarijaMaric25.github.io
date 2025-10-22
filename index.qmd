@@ -6,7 +6,11 @@ about:
   template: trestles
   image: /images/Logosceds4youth.png
 ---
-IMPACT STATEMENT HERE
+**_IMPACT STATEMENT HERE_**
+
+![](/images/Afbeelding2.png)
+
+From left to right: Yvonne Stikkelbroek, Marija Maric, Shawn Kok, Laura Fetz, Martijn Meulenbroek
 
 _We are thankful to Max Paulus from the UvA Research Lab and dog Lucky for helping us create these pages!_ 
 
