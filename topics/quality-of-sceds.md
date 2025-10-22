@@ -1,5 +1,6 @@
 ---
 title: Quality of SCEDs
+image: /images/Quality foto website.png
 ---
 The aims of this project are two-fold. The first one is to rate existing single-case research on youth interventions for quality, using tools that assess internal and external validity of a study. We have already done that for the study included in our two recent meta-analyses on internalizing and externalizing problems. The second aim is to design and evaluate a new tool for rating the quality of single-case research in youth. More info follows soon! 
 
