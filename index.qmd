@@ -6,7 +6,7 @@ about:
   template: trestles
   image: /images/Logosceds4youth.png
 ---
-**_IMPACT STATEMENT HERE_**
+<p style="text-align: center">We are a team of researchers and scientist-practitioners dedicated to advancing the science and practice of treatments for youth psychopathology. Despite significant progress in understanding the efficacy and effectiveness of youth treatments, several critical questions remain: Why do some youths not improve after treatment? How can treatments be individually tailored and their effects investigated? What are the mediators responsible for these effects? How can we bridge the gap between science and practice to create more evidence-based clinical practice for youth? And how can we enhance the reach and impact of personalized healthcare? To address these questions, we implement single-case experimental design methods and train scientist-practitioners to do the same. Single-case studies allow for the investigation of treatment effects within individual clients, in specific contexts, providing insights into personalized therapeutic approaches and working mechanisms. By focusing on individual treatment effects and training practitioners in single-case methodologies, our work bridges the gap between science and practice. This approach enhances the reach and impact of personalized healthcare, paving the way for more effective therapeutic interventions that improve the mental health and well-being of children, adolescents, and families.</p>
 
 ![](/images/Afbeelding2.png)
 
