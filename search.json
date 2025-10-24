@@ -32,7 +32,7 @@
     "href": "pages/dissemination.html#open-science",
     "title": "Valorisation",
     "section": "Open Science",
-    "text": "Open Science"
+    "text": "Open Science\nOur projects are preregistred and our code for data-analyses is shared.\nFor the MetaSCED project, all data and analyzes code are published online, together with our publications. With Data Science Center we created this online user-friendly interface for the collection of single-case data, that can be used freely by other researchers https://scedmeta.pages.uva-hva.gitlab.host/scedmeta-forms-validator/ Further, we are currently collaborating with AI scientists developing methods to extract single-case data from published pdf’s. Once finished and piloted, these AI tools will be made available online. We are aware of the threaths of AI for the climate, and are continuously searching for guidelines that help us use AI in a responsible way. The ultimate goal of MetaSCED project is to create an Open Access data base with the collection of all published single-case studies."
   },
   {
     "objectID": "pages/dissemination.html#publications-presentations-workshops",
