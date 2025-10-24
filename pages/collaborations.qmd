@@ -1,13 +1,13 @@
 ---
 title: Collaborations
 ---
-![](/images/images-2.png)
-
 We strongly believe that, to achieve high impact youth intervention research, rigorous methodology and data science is necessary. Therefore, we collaborate happily and successfully with colleagues specialized in single-case data-analysis, and in data collection, preparation, and quality of the data. Recent initiatives include collaborations with AI-scientists.
 
 Our collaborations:
 
-*   professor Wim van den Noortgate en professor Patrick Onghena, KU Leuven
+*   Janneke Staaks, UvA Library
+    
+*   Professor Wim van den Noortgate en professor Patrick Onghena, KU Leuven
     
 *   professor David MacKinnon, Arizona State University
     
@@ -16,3 +16,6 @@ Our collaborations:
 *   Data Science Center UvA
     
 *   Jan-Christoph Kalo, PhD, Intelligent Data Engineering Lab, UvA
+    
+
+![](/images/images-2.png)
