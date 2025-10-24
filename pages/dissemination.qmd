@@ -1,15 +1,17 @@
 ---
 title: Dissemination
 ---
-##  **How to do your own single-case study?**
+## **Infographic: How to do your own single-case study?**
 
-A few years ago, based on the frequent questions we received, and together with a few other colleagues we created this guideline that can help you start with your own single-case study – add pdf doc here we developed a few years ago. ADD PDF HERE
+Based on frequent questions we get, we created this 10-step guide that can help you start with your own singe-case study.
 
-##  **Training**
+Other infographics - How to...conduct SCED data-analysis? - follows soon!
+
+## **Training**
 
 We have experience in providing group trainings and supervision, and individual guidance to scientist-practitioners interested in designing and conducting their own single-case research either in the context of postdoctoral therapist trainings or just because we want to learn more about our clients!
 
-##  **Publications**
+## **Publications**
 
 list here publications, presentations, etc. on the topic of sceds, mediators, moderators. add links to pdf’s of publications where possible.
 
@@ -41,7 +43,7 @@ Arts, E., De Castro, B. O., Luteijn, E., Elsendoorn, B., Maric, M., & Vissers, C
 
 Telman, L., van Steensel, B., Verveen, A., Bögels, S., & Maric, M. (_2020_). Modular CBT for Social Anxiety in Youth. _Evidence-Based Practice in Child and Adolescent Mental Health, 5, 16-27._ 
 
- Miočević, M., Klaassen, F., Geuke, G., Moeyaert, M., & Maric, M. (2020). Using Bayesian Methods to test Mediators of Intervention Outcomes in Single Case Experimental Designs (SCEDs). Special issue _Journal of_ _Evidence-Based Communication Assessment and Intervention, 14_, 52-68_._
+ Miočević, M., Klaassen, F., Geuke, G., Moeyaert, M., & Maric, M. (2020). Using Bayesian Methods to test Mediators of Intervention Outcomes in Single Case Experimental Designs (SCEDs). Special issue _Journal of_ _Evidence-Based Communication Assessment and Intervention, 14_, 52-68\_.\_
 
  Geuke, G., Maric, M., Miocevic, M., Wolters, L.H., & de Haan, E. (2019). Testing mediators of youth intervention outcomes using single-subject experimental designs. Special issue _Journal of New Directions for Child and Adolescent Development, 167,_ 39–64.
 
@@ -75,7 +77,7 @@ Van der Werff, V., Sepers, A., Dijkhuizen, C., Mooren, T., & Maric, M. (2018). E
 
 Maric, M. (2017). Het overbruggen van de kloof tussen klinisch onderzoek en praktijk van kinder en jeugd psychotherapie. _Tijdschrift voor Psychotherapie_, 204-205.
 
-Koning, I., Maric, M., MacKinnon, D. P, & Vollebergh, W. (2017). Effecten van een gecombineerd alcoholpreventieprogramma voor ouders en leerlingen op mediërende factoren en alcoholgebruik van adolescenten: een sequentieel mediatiemodel_._ Gezinstherapie Wereldwijd, DOI 10.1007/s12440-016-0026-0.
+Koning, I., Maric, M., MacKinnon, D. P, & Vollebergh, W. (2017). Effecten van een gecombineerd alcoholpreventieprogramma voor ouders en leerlingen op mediërende factoren en alcoholgebruik van adolescenten: een sequentieel mediatiemodel\_.\_ Gezinstherapie Wereldwijd, DOI 10.1007/s12440-016-0026-0.
 
 Telman, L., van Steensel, F.J.A., Maric, M., & Bögels, S.M. (2015). Denken, doen, durven. Werkzame factoren in de angstbehandeling. _Kind & Adolescent Praktijk._
 
