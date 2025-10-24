@@ -13,158 +13,106 @@ We have experience in providing group trainings and supervision, and individual 
 
 ## **Publications**
 
-list here publications, presentations, etc. on the topic of sceds, mediators, moderators. add links to pdf’s of publications where possible.
+**_Book_** 
 
- **_Book_**
+Maric, M., Prins, P. J. M., & Ollendick, T. H. (Eds.). (2015). _Moderators and Mediators of Youth Treatment Outcomes_. Oxford University Press. [https://doi.org/10.1093/med:psych/9780199360345.001.0001](https://doi.org/10.1093/med:psych/9780199360345.001.0001)  
 
-Maric, M., Prins, P.J.M., & Ollendick, T.H. (Eds.) (2015). Moderators and Mediators of Youth Treatment Outcomes. New York: Oxford University Press.
+**_Book chapters_** 
 
-**_Chapters in books_**
+Maric, M., & Van der Werff, V. (2020). Single-Case Experimental Designs in Clinical Intervention Research. In R. Van de Schoot & M. Miočević (Eds.), _Small Sample Size Solutions: A Guide for Applied Researchers and Practitioners_ (1st ed., pp. 102–111). Routledge. [https://doi.org/10.4324/9780429273872-9](https://doi.org/10.4324/9780429273872-9)  
 
-Maric, M. & van der Werff, V. (2019). Single-case experimental designs in clinical intervention research. Chapter in van de Schoot, R. & Miocevic, M. European Association of Methodology book series. Routledge: Taylor & Francis Group.
+ Prins, P. J. M., Ollendick, T. H., Maric, M., & MacKinnon, D. P. (2015). Moderators and Mediators in Treatment Outcome Studies of Childhood Disorders: The What, Why, and How. In M. Maric, P. J. M. Prins, & T. H. Ollendick (Eds.), _Moderators and Mediators of Youth Treatment Outcomes_ (pp. 1–19). Oxford University Press. [https://doi.org/10.1093/med:psych/9780199360345.003.0001](https://doi.org/10.1093/med:psych/9780199360345.003.0001)  
 
-Prins, P.J.M., Ollendick, T.H, Maric, M., & MacKinnon, D.P. (2015). Moderators and Mediators in Treatment Outcome Studies of Childhood Disorders: The What, Why, and How. In Maric, M., Prins, P.J.M., & Ollendick, T.H. (Eds.) (2015). Moderators and Mediators of Youth Treatment Outcomes. New York: Oxford University Press.
+**_International articles (peer-reviewed)_** 
 
-**_International articles (peer-reviewed)_**
+Kok, S. I., Fetz, L. M., Stikkelbroek, Y. A. J., Leijten, P., Staaks, J., & Maric, M. (_accepted_). A Multilevel Meta-analysis of Single-Case Research on Interventions for Externalizing Behavioral Problems in Children and Adolescents. _Journal of the American Academy of Child and Adolescent Psychiatry Open_. 
 
-Arts, E., De Castro, B. O., Luteijn, E., Elsendoorn, B., Maric, M., & Vissers, C. T. (2025). Virtual reality training to improve socio‐emotional functioning in adolescents with developmental language disorders: A multiple baseline effectiveness study. _Social Development_, _34_(1), e12784.
+Potharst, E. S., Holtkamp, P., Walliser, L., Dommerholt, A. H., Van Den Heuvel, M. E. N., Spierts, I., & Maric, M. (2025). Improving Infant Mental Health: A pilot study on the effectiveness, acceptability and feasibility of Eye Movement Desensitization and Reprocessing (EMDR) storytelling in infants with post-traumatic distress after medical procedures. _Evaluation & the Health Professions_, _48_(1), 55–70. [https://doi.org/10.1177/01632787241268176](https://doi.org/10.1177/01632787241268176) 
 
- Potharst, E. S., Holtkamp, P., Walliser, L., Dommerholt, A. H., van den Heuvel, M. E., Spierts, I., & Maric, M. (2025). Improving Infant Mental Health: A Pilot Study on the Effectiveness, Acceptability and Feasibility of Eye Movement Desensitization and Reprocessing (EMDR) Storytelling in Infants With Post-traumatic Distress After Medical Procedures. _Evaluation & the Health Professions_, _48_(1), 55-70.
+Van den Brink, C., Maric, M., Niels, H., & Stikkelbroek, Y. A. J. (2025). Single-Case study of the feasibility of parent training and change in parenting in comparison to baseline, in adolescents with a major depressive disorder. _Evaluation & the Health Professions_, _48_(1), 30–54. [https://doi.org/10.1177/01632787241265440](https://doi.org/10.1177/01632787241265440) 
 
- van den Brink, C., Maric, M., Niels, H., & Stikkelbroek, Y. (2025). Single-Case Study of the Feasibility of Parent Training and Change in Parenting in Comparison to Baseline, in Adolescents With a Major Depressive Disorder. _Evaluation & the health professions_, _48_(1), 30-54.
+Vigeveno, D. E., Maric, M., Onghena, P., & Hupkes, M. (2025). Evaluation of a parenting program for mothers with a borderline Personality Disorder: A Multiple Baseline Single-Case Experimental Design Study. _Evaluation & the Health Professions_, _48_(1), 3–15. [https://doi.org/10.1177/01632787241288218](https://doi.org/10.1177/01632787241288218)  
 
- Vigeveno, D. E., Maric, M., Onghena, P., & Hupkes, M. (2025). Evaluation of a Parenting Program for Mothers With a Borderline Personality Disorder: A Multiple Baseline Single-Case Experimental Design Study. _Evaluation & the Health Professions_, _48_(1), 3-15.
+Arts, E., De Castro, B. O., Luteijn, E., Elsendoorn, B., Maric, M., & Vissers, C. T. W. M. (2024). Virtual reality training to improve socio‐emotional functioning in adolescents with developmental language disorders: A multiple baseline effectiveness study. _Social Development_, _34_(1), e12784. [https://doi.org/10.1111/sode.12784](https://doi.org/10.1111/sode.12784) 
 
- Hoeboer, C., Wienen, L., Smiddy, M., van der Werff, S., Maric, M., Tjoa, E., ... & Schoorl, M. (2024). Effectiveness of Narrative Exposure Therapy for Treatment of PTSD Following Childhood Trauma: A Single‐Case Series Design. _Clinical Psychology & Psychotherapy_, _31_(5), e3044.
+Hoeboer, C., Wienen, L., Smiddy, M., Van Der Werff, S., Maric, M., Tjoa, E., Timmers, L., & Schoorl, M. (2024). Effectiveness of Narrative Exposure Therapy for Treatment of PTSD Following Childhood Trauma: A Single-Case Series Design. _Clinical Psychology & Psychotherapy_, _31_(5), e3044. [https://doi.org/10.1002/cpp.3044](https://doi.org/10.1002/cpp.3044) 
 
- Maric, M., & Kok, S. I. (2023). How did the treatment work for Robin? And for Dylan? Studying individual youth treatment mediators using single-case experimental designs. _Clinical Child and Family Psychology Review_, _26_(3), 721-726. 
+Van den Heuvel, M. W. H., Bodden, D. H. M., Smit, F., Stikkelbroek, Y. A. J., Weisz, J. R., Moerbeek, M., & Engels, R. C. M. E. (2023). Relative effectiveness of CBT-Components and sequencing in indicated depression prevention for Adolescents: a Cluster-Randomized Microtrial. _Journal of Clinical Child & Adolescent Psychology_, _52_(4), 503–518. [https://doi.org/10.1080/15374416.2021.1978296](https://doi.org/10.1080/15374416.2021.1978296) 
 
- Maric, M., Schumacher, L., Van den Noortgate, W., Bettelli, L., Engelbertink, W., & Stikkelbroek, Y. (2023). A Multilevel Meta-analysis of Single-Case Research on Interventions for Internalizing Disorders in Children and Adolescents. _Clinical Child and Family Psychology Review_, _26_(2), 416-429. 
+Kooiman, B. E. A. M., Robberegt, S. J., Albers, C. J., Bockting, C. L. H., Stikkelbroek, Y. A. J., & Nauta, M. H. (2023). Congruency of multimodal data-driven personalization with shared decision-making for StayFine: individualized app-based relapse prevention for anxiety and depression in young people. _Frontiers in Psychiatry_, _14_, Article 1229713. [https://doi.org/10.3389/fpsyt.2023.1229713](https://doi.org/10.3389/fpsyt.2023.1229713) 
 
-Telman, L., van Steensel, B., Verveen, A., Bögels, S., & Maric, M. (_2020_). Modular CBT for Social Anxiety in Youth. _Evidence-Based Practice in Child and Adolescent Mental Health, 5, 16-27._ 
+Maric, M., & Kok, S. I. (2023). How did the Treatment Work for Robin? And for Dylan? Studying Individual Youth Treatment Mediators Using Single-Case Experimental Designs. _Clinical Child and Family Psychology Review_, _26_(3), 721–726. [https://doi.org/10.1007/s10567-023-00442-7](https://doi.org/10.1007/s10567-023-00442-7) 
 
- Miočević, M., Klaassen, F., Geuke, G., Moeyaert, M., & Maric, M. (2020). Using Bayesian Methods to test Mediators of Intervention Outcomes in Single Case Experimental Designs (SCEDs). Special issue _Journal of_ _Evidence-Based Communication Assessment and Intervention, 14_, 52-68\_.\_
+Van den Heuvel, M. W. H., Bodden, D. H. M., Smit, F., Stikkelbroek, Y. A. J., & Engels, R. C. M. E. (2023). Evaluating effect moderators in Cognitive versus Behavioral based CBT-Modules and Sequences towards Preventing adolescent Depression. _Journal of Clinical Child & Adolescent Psychology_, _54_(2), 229–239. [https://doi.org/10.1080/15374416.2023.2209181](https://doi.org/10.1080/15374416.2023.2209181) 
 
- Geuke, G., Maric, M., Miocevic, M., Wolters, L.H., & de Haan, E. (2019). Testing mediators of youth intervention outcomes using single-subject experimental designs. Special issue _Journal of New Directions for Child and Adolescent Development, 167,_ 39–64.
+Maric, M., Schumacher, L., Van Den Noortgate, W., Bettelli, L., Engelbertink, W., & Stikkelbroek, Y. A. J. (2023). A multilevel meta-analysis of Single-Case research on interventions for internalizing disorders in children and adolescents. _Clinical Child and Family Psychology Review_, _26_(2), 416–429. [https://doi.org/10.1007/s10567-023-00432-9](https://doi.org/10.1007/s10567-023-00432-9) 
 
- Lancee, J., Maric, M., & Kamphuis, J.H. (2019). Sleep restriction therapy may be effective for people with insomnia and depressive complaints: Evidence from a case series. _Behavioural and Cognitive Psychotherapy_, 11, 1-6.
+Robberegt, S. J., Kooiman, B. E. a. M., Albers, C. J., Nauta, M. H., Bockting, C., & Stikkelbroek, Y. A. J. (2022). Personalised app-based relapse prevention of depressive and anxiety disorders in remitted adolescents and young adults: a protocol of the StayFine RCT. _BMJ Open_, _12_, e058560. [https://doi.org/10.1136/bmjopen-2021-058560](https://doi.org/10.1136/bmjopen-2021-058560) 
 
- Dovis, S., Maric, M., Prins, P.J.M., & van der Oord, S. (2019). Does Executive Function Capacity Moderate the Outcome of Executive Function Training in Children with ADHD? _ADHD Attention Deficit and hyperactivity Disorders._ doi: 10.1007/s12402-019-00310-x
+Bossenbroek, R., Poppelaars, M., Creemers, D. H. M., Stikkelbroek, Y. A. J., & Lichtwarck-Aschoff, A. (2022). Trajectories of Symptom Change in School-Based Prevention Programs for Adolescent Girls with Subclinical Depression. _Journal of Youth and Adolescence_, _51_(4), 659–672. [https://doi.org/10.1007/s10964-022-01578-5](https://doi.org/10.1007/s10964-022-01578-5) 
 
- Sepers, A., van der Werff, V., Mooren, T., de Roos, C., & Maric, M. (2019). The effectiveness of the RA, a multidisciplinary treatment of child abuse: A Single Case Experimental Design study protocol. _Journal of Family Violence_, 1-10.
+Lancee, J., Maric, M., & Kamphuis, J. (2020). Sleep restriction therapy may be effective for people with insomnia and depressive complaints: evidence from a case series. _Behavioural and Cognitive Psychotherapy_, _48_(4), 492–497. [https://doi.org/10.1017/s1352465819000705](https://doi.org/10.1017/s1352465819000705) 
 
- Verkleij, M., Maric, M., Colland, V., Nagelkerke, A. F., Geenen, R. (2017). Cognitive-behavioral therapy and eye movement desensitization and reprocessing in an adolescent with difficult-to-control asthma. _Pediatric Allergy, Immunology, and Pulmonology, 30_, 103-112.
+Sepers, A. J. W., Van Der Werff, V., De Roos, C., Mooren, T., & Maric, M. (2020). Increasing Family Safety and Decreasing Parental Stress and Child’s Social-Emotional Problems with Resolutions Approach: a Single-Case Experimental Design Study Protocol. _Journal of Family Violence_, _35_(5), 527–536. [https://doi.org/10.1007/s10896-019-00057-z](https://doi.org/10.1007/s10896-019-00057-z) 
 
- Kelder, R. op den, J. Ensink, Overbeek, G., Maric, M. & Lindauer, R. (2017). Executive Function as a Mediator in the Link between Single or Complex Trauma and Posttraumatic Stress in Children and Adolescents. _Quality of Life Research, 26_, 1687-1696.
+Van den Heuvel, M. W. H., Stikkelbroek, Y. A. J., Bodden, D. H. M., & Van Baar, A. L. (2020). Coping with stressful life events: Cognitive emotion regulation profiles and depressive symptoms in adolescents. _Development and Psychopathology_, _32_(3), 985–995. [https://doi.org/10.1017/s0954579419000920](https://doi.org/10.1017/s0954579419000920) 
 
- Koning, I., Maric, M., MacKinnon, D. P, & Vollebergh, W. (2015). Effects of a combined parent-student alcohol prevention program on intermediate factors and adolescents’ drinking behavior: A sequential mediation model. _Journal of Consulting and Clinical Psychology, 83_, 719-727.
+Miočević, M., Klaassen, F., Geuke, G. G. M., Moeyaert, M., & Maric, M. (2020). Using Bayesian methods to test mediators of intervention outcomes in single-case experimental designs. _Evidence-Based Communication Assessment and Intervention_, _14_(1–2), 52–68. [https://doi.org/10.1080/17489539.2020.1732029](https://doi.org/10.1080/17489539.2020.1732029) 
 
- Maric, M., de Haan, E., Hogendoorn, S. M., Wolters, L. H., & Huizenga, H. M. (2014). Evaluating statistical and clinical significance of intervention effects in Single-Case Experimental Designs: An SPSS method to analyze univariate data. _Behavior Therapy, 46,_ 230-241. 
+Telman, L. G. E., Van Steensel, F. J. A., Verveen, A. J. C., Bögels, S. M., & Maric, M. (2020). Modular CBT for Youth Social Anxiety Disorder: A Case series Examining Initial effectiveness. _Evidence-Based Practice in Child and Adolescent Mental Health_, _5_(1), 16–27. [https://doi.org/10.1080/23794925.2020.1727791](https://doi.org/10.1080/23794925.2020.1727791) 
 
- Maric, M., Wiers, R.W., & Prins, P.J.M. (2012). Ten ways to improve the use of statistical mediation analysis in the practice of child and adolescent treatment research. _Clinical Child and Family Psychology Review, 15_, 177-191.
+Geuke, G. G. M., Maric, M., Miočević, M., Wolters, L. H., & Haan, E. (2019). Testing mediators of youth intervention outcomes using Single‐Case experimental designs. _New Directions for Child and Adolescent Development_, _2019_(167), 39–64. [https://doi.org/10.1002/cad.20310](https://doi.org/10.1002/cad.20310) 
 
- Maric, M., Heyne, D.A., MacKinnon, D.P., van Widenfelt, B.M., & Westenberg, P.M. (2012). Cognitive mediation of Cognitive-Behavioural Therapy outcomes for anxiety-based school refusal. _Behavioural and Cognitive Psychotherapy, 28_, 1-16.
+Dovis, S., Maric, M., Prins, P. J. M., & Van der Oord, S. (2019). Does executive function capacity moderate the outcome of executive function training in children with ADHD? _ADHD Attention Deficit and Hyperactivity Disorders_, _11_(4), 445–460. [https://doi.org/10.1007/s12402-019-00308-5](https://doi.org/10.1007/s12402-019-00308-5) 
 
-**In Dutch**
+Verkleij, M., Maric, M., Colland, V., Nagelkerke, A. F., & Geenen, R. (2017). Cognitive-Behavioral Therapy and Eye Movement Desensitization and Reprocessing in an Adolescent with Difficult-to-Control Asthma. _Pediatric Allergy Immunology and Pulmonology_, _30_(2), 103–112. [https://doi.org/10.1089/ped.2016.0725](https://doi.org/10.1089/ped.2016.0725) 
 
-Sepers, A. J., van der Werff, V., de Roos, C., Mooren, T., & Maric, M. (2021). Meer veiligheid binnen het gezin, minder ouderlijke stress en minder sociaal-emotionele problemen bij kinderen met de Resolutions Approach: een single-case experimental design onderzoeksprotocol. _Gezinstherapie Wereldwijd_, _32_(1), 57-75.
+Op den Kelder, R., Ensink, J. B. M., Overbeek, G., Maric, M., & Lindauer, R. J. L. (2017). Executive function as a mediator in the link between single or complex trauma and posttraumatic stress in children and adolescents. _Quality of Life Research_, _26_(7), 1687–1696. [https://doi.org/10.1007/s11136-017-1535-3](https://doi.org/10.1007/s11136-017-1535-3) 
 
-Maric, M., Smit, J., & van Steensel, B. (2019). Gepersonaliseerde therapie bij jeugd: hoe moet dat? Tijdschrift Vereniging Kinder en Jeugdpsychotherapie (VKJP).
+Maric, M., De Haan, E., Hogendoorn, S. M., Wolters, L. H., & Huizenga, H. M. (2015). Evaluating Statistical and clinical significance of intervention effects in Single-Case Experimental designs: an SPSS method to analyze univariate data. _Behavior Therapy_, _46_(2), 230–241. [https://doi.org/10.1016/j.beth.2014.09.005](https://doi.org/10.1016/j.beth.2014.09.005) 
 
-Maric, M. (2018). Single-Case Experimental Designs in CBT.  _Gedragstherapie, 2_, 158-170.
+Koning, I. M., Maric, M., MacKinnon, D., & Vollebergh, W. A . M. (2015). Effects of a combined parent–student alcohol prevention program on intermediate factors and adolescents’ drinking behavior: A sequential mediation model. _Journal of Consulting and Clinical Psychology_, _83_(4), 719–727. [https://doi.org/10.1037/a0039197](https://doi.org/10.1037/a0039197) 
 
-Van der Werff, V., Sepers, A., Dijkhuizen, C., Mooren, T., & Maric, M. (2018). Een effectiviteitsstudie naar de Resolutions Approach. _Kind en Adolescent Praktijk._
+Maric, M., Heyne, D. A., MacKinnon, D. P., Van Widenfelt, B. M., & Westenberg, P. M. (2013). Cognitive mediation of Cognitive-Behavioural therapy Outcomes for Anxiety-Based School refusal. _Behavioural and Cognitive Psychotherapy_, _41_(5), 549–564. [https://doi.org/10.1017/s1352465812000756](https://doi.org/10.1017/s1352465812000756) 
 
-Maric, M. (2017). Het overbruggen van de kloof tussen klinisch onderzoek en praktijk van kinder en jeugd psychotherapie. _Tijdschrift voor Psychotherapie_, 204-205.
+Maric, M., Wiers, R. W., & Prins, P. J. M. (2012). Ten Ways to Improve the use of statistical mediation analysis in the practice of child and adolescent Treatment research. _Clinical Child and Family Psychology Review_, _15_(3), 177–191. [https://doi.org/10.1007/s10567-012-0114-y](https://doi.org/10.1007/s10567-012-0114-y) 
 
-Koning, I., Maric, M., MacKinnon, D. P, & Vollebergh, W. (2017). Effecten van een gecombineerd alcoholpreventieprogramma voor ouders en leerlingen op mediërende factoren en alcoholgebruik van adolescenten: een sequentieel mediatiemodel\_.\_ Gezinstherapie Wereldwijd, DOI 10.1007/s12440-016-0026-0.
+**_National works (Dutch, peer-reviewed)_** 
 
-Telman, L., van Steensel, F.J.A., Maric, M., & Bögels, S.M. (2015). Denken, doen, durven. Werkzame factoren in de angstbehandeling. _Kind & Adolescent Praktijk._
+Vigeveno, D., Maric, M., Onghena, P. & Hupkes, M. (_accepted_). Evaluatie van een opvoedprogramma voor moeders met een borderline persoonlijkheidsstoornis. _Percentiel._ 
 
-Versluis, A., Maric, M., & Peute, L. (2014). N=1 studies in onderzoek en praktijk. _De Psycholoog, 3_, 10-20.
+Sepers, A. J. W., Van der Werff, V., De Roos, C., Mooren, T., & Maric, M. (2021). Meer veiligheid binnen het gezin, minder ouderlijke stress en minder sociaal-emotionele problemen bij kinderen met de Resolutions Approach: een single-case experimental design onderzoeksprotocol. _Gezinstherapie Wereldwijd_, _32_(1), 57–75. [https://doi.org/10.1007/s12440-021-00141-1](https://doi.org/10.1007/s12440-021-00141-1) 
 
-**Submitted manuscripts (English and Dutch)**
+Bodden, D. H. M., Stikkelbroek, Y. A. J., & Braet, C. (2020). Werken op maat; protocollair, transdiagnostisch of modulair? In C. Braet & S. Bögels (Eds.), _Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten_ (Rev. ed., Vol. 1, pp. 635–652). Boom. [https://edu.nl/q9vnm](https://edu.nl/q9vnm) 
 
-<p style="text-align: justify">Kok, S.I., Fetz, L.M., Stikkelbroek, Y, Leijten, P.H.O, Staaks, J., &amp; Maric, M. (2025).</p>
+Maric, M., Smit, J. A., & Van Steensel, F. J. A. (2019). Gepersonaliseerde therapie bij jeugd: hoe moet dat? _Tijdschrift van de Vereniging voor Kinder- en Jeugdpsychotherapie_, _46_(1), 123–133. [https://edu.nl/3vmbh](https://edu.nl/3vmbh) 
 
-A Multilevel Meta-analysis of Single-Case Research on Interventions for Externalizing Behavioral Problems in Children and Adolescents. _Journal of the American Academy of Child and Adolescent Psychiatry Open._
+Maric, M. (2018). Single-case experimentele designs in cognitieve gedragstherapie. _Gedragstherapie_, _51_(2), 158–170. [https://edu.nl/n9jey](https://edu.nl/n9jey) 
 
-de Paauw - Telman, L., Maric, M., & Bögels, S., & van Steensel, F.,  (2025). Modularized CBT for Children with Anxiety Disorders: Client Feedback and Therapeutic Alliance as Predictors of Treatment Outcome. _Behavioural and Cognitive Psychotherapy._
+Van der Werff, V., Sepers, A., Dijkhuizen, C., Mooren, T., & Maric, M. (2018). Een effectiviteitsstudie naar de Resolutions Approach. _Kind & Adolescent Praktijk_, _17_(3), 31–33. [https://doi.org/10.1007/s12454-018-0035-0](https://doi.org/10.1007/s12454-018-0035-0) 
 
-Vigeveno, D., Maric, M., Onghena, P. & Hupkes, M. (2025). Evaluatie van een opvoedprogramma voor moeders met een borderline persoonlijkheidsstoornis. _Percentiel, het tijdschrift van de pediater._
+Maric, M. (2017). Het overbruggen van de kloof tussen klinisch onderzoek en de praktijk van kinder- en jeugdpsychotherapie. _Tijdschrift voor Psychotherapie_, _43_(3), 204–215. [https://doi.org/10.1007/s12485-017-0191-y](https://doi.org/10.1007/s12485-017-0191-y) 
 
-**Presentations and workshops**
+Koning, I. M., Maric, M., MacKinnon, D. P., & Vollebergh, W. A. M. (2017). Effecten van een gecombineerd alcoholpreventieprogramma voor ouders en leerlingen op mediërende factoren en alcoholgebruik van adolescenten: een sequentieel mediatiemodel. _Gezinstherapie Wereldwijd_, _28_(1), 44–62. [https://doi.org/10.1007/s12440-016-0026-0](https://doi.org/10.1007/s12440-016-0026-0) 
 
-2025       NedKAD conference workshop, Transdiagnostische én gepersonaliseerde benadering           van          internaliserende problemen bij jeugd.
+Telman, L., Van Steensel, F. J. A., Maric, M., & Bögels, S. (2015). Denken, doen, durven: Werkzame factoren in angstbehandeling. _Kind & Adolescent Praktijk_, _14_(3), 39–41. [https://doi.org/10.1007/s12454-015-0034-3](https://doi.org/10.1007/s12454-015-0034-3) 
 
-2025       Data Science Center UvA, seminar, Meta-analysis of single-case research.
+Meeuwissen, A. A. C., Speetjens, P. A. M., Meije, D., Oud, M., Konijn, C., Besselse, M., Heemskerk, E., De Marez Oyens, I., Rozema, E., Selle, A. M., & Stikkelbroek, Y. a. J. (2014). _Richtlijn stemmingsproblemen in de jeugdzorg_. Trimbos-Instituut. [https://edu.nl/kky76](https://edu.nl/kky76) 
 
-2021       Single-case designs in youth intervention research. UU PhD course intervention research. 
+Versluis, A., Maric, M., & Peute, L. (2014). N=1 studies in onderzoek en praktijk: (Hoe) heeft de behandeling gewerkt? _De Psycholoog_, _49_(3), 10–20. 
 
-2020       Pre-congress workshop ‘**Single-case experimental designs: Studying treatment effectiveness      and mediators of treatment outcomes’.** S4 conference ‘Small sample size solutions’, 2nd edition,                   Utrecht University.
+**Works in progress (English and Dutch)** 
 
-2019       The future of Clinical Psychologist (KP) as a Scientist-Practitioner. Congress Clinical                Psychologists, Rino Group, Utrecht.
+De Pauw-Telman, L., Maric, M., Bögels, S., & Van Steensel, F. J. A. (in revision). Modularized CBT for Children with Anxiety Disorders: Client Feedback and Therapeutic Alliance as Predictors of Treatment Outcome. _Behavioural and Cognitive Psychotherapy_. 
 
-2018       Openings keynote: When less is more: Single-case research in youth clinical practice. S4      conference ‘Small sample size solutions’. Utrecht University.
+Robberegt, S. J., Albers, C. J., Kooiman, B. E. A. M., Vuuregge, A. H., Mul, J. D., Wilts, N., Nauta, M. H., Stikkelbroek, Y. A. J., Bockting, C. L. (_in press_). Examining Varying Number of Intervention-Modules and Change in Psychopathology Networks in Young People Remitted from Depression or Anxiety: Exploratory Outcomes of the Stay Fine Randomised Clinical Trial. _Cognitive Therapy Research._ 
 
-2018       Single-case experimental designs in youth clinical practice. Nederlandse Jeugd Instituut.
+ **_Other works (podcasts, tutorials, media, etc.)_**  
 
-2017       Master class GGZ Brabant: Single-case designs in research and clinical practice.
+Kok, S. I. (2025). _Analysing Treatment Mediators in Small Sample Interrupted Time-Series Design Studies on Psychosocial Treatments_. ResearchGate. [https://doi.org/10.13140/RG.2.2.13639.61601](https://doi.org/10.13140/RG.2.2.13639.61601) 
 
-2016       Keynote CBT for children and adolescents with anxiety disorders. Lisbon University, Faculty of             Psychology, Lisbon, Portugal.
+Kok, S. I. (2024). _A Tutorial on Single-Case Mediation Analysis Using R: An Application of Generalized Least_ _Squares and Confidence Interval Estimation Methods_ (Version 2025.03-1) \[Tutorial Paper\]. Research Institute of Child Development and Education, University of Amsterdam. [https://doi.org/10.5281/zenodo.14632015](https://doi.org/10.5281/zenodo.14632015) 
 
-2016       Modularized Cognitive Behavioral Therapy for Youth Anxiety Disorders. VGCt               voorjaarscongres.
+Augeo Foundation Magazine, [https://www.augeomagazine.nl/aan-de-slag-met-kennis-augeo-magazine-onderzoeksspecial/resolutions-approach-het-gaat-niet-om-de-schuldvraag](https://www.augeomagazine.nl/aan-de-slag-met-kennis-augeo-magazine-onderzoeksspecial/resolutions-approach-het-gaat-niet-om-de-schuldvraag)
 
-2016    1-day workshop ‘Single-case experimental designs in CBT practice’ as part of GITP-PAO                                   advanced course cognitive-behavioral therapy.
-
-2016    Working mechanisms in anxiety treatment: Training in innovative version of ‘Denken,                                         doen, durven’ cognitive-behavioral protocol for childhood anxiety. Ouder-Kind Centra Amsterdam.
-
-2016      Negative and positive cognitions in youth anxiety: Moderating role of parental rearing practices                  across different age groups. 11th International Conference on Child and Adolescent                                       Psychopathology, University of                                                       Roehampton, London.
-
-2016       The role of anxiety (disorders) in youth ADHD: risk or protective factor?                           11th International Conference on Child and Adolescent Psychopathology,                      University of Roehampton, London.
-
-2015       When less is more. Single-case experimental designs in clinical research                      _practice._ Invited lecture for AMC de Bascule and VU research workers.                            Amsterdam Medical Center, Amsterdam.
-
-2015   Working mechanisms in anxiety treatment: Training in innovative version                                                  of ‘Denken, doen, durven’ cognitive-behavioral protocol for childhood                         anxiety. Netwerk Effectieve Jeugdzorg Amsterdam (NEJA), Amsterdam. 
-
- 2015  Working mechanisms in anxiety treatment: Training in innovative version      
-
-              of ‘Denken, doen, durven’ cognitive-behavioral protocol for childhood                                       anxiety. Psycho Praktijk Leusden, Utrecht.
-
-2015  Depressief of puberaal? Training in herkennen en screenen van sombere                  stemming bij adolescenten. Landelijke dag POH-GGZ, Bunnik.
-
-2015   Single-case experimentele designs in de klinische praktijk. PsyQ De                                          Haaglanden, Den Haag.
-
-2014   Single-case experimental designs in routine clinical practice. Nederlandse                              Instituut voor Psychologen (NIP), sectie Lichaamsgerichte therapeuten.                                    NIP kantoor, Utrecht.
-
-2014       Interventions for children and adolescents: current state-of-the-art.                                                   Invited lecture given at the department of Clinical Psychology, University                                of Amsterdam, Amsterdam, The Netherlands.
-
-2014       Effectiveness of exposure vs. cognitive therapy in children with anxiety                           disorders: a single-case experimental design study. 44th annual Congress                      of the European Association for Behavioral and Cognitive Therapies, The                       Hague, Netherlands.
-
-2014       Influence of comorbid ADHD on the treatment outcomes of children with                     anxiety disorders. 44th annual Congress of the European Association for                         Behavioral and Cognitive Therapies, The Hague, Netherlands.
-
-2013       Single-case experimental designs in routine clinical practice.                                                                 Lustrumcongres Nederlandse Instituut voor Psychologen (NIP) 2013.                        Jaarbeurs, Utrecht.
-
-2013.   Mediators of Cognitive-Behavioral Treatment outcomes for Anxiety in                     Adolescence: A Single-Case Experimental Design. Invited lecture at                                            Amsterdam Medical Centre (AMC), De Bascule
-
-2012       Improving efficacy of youth treatments using single-subject research.                             Invited presentation given at the Science Day (UvA Developmental                                                      Psychology), Amsterdam, The Netherlands.
-
-2011    Treatment mediators and N=1 designs: a crucial combination.                                    Presentation given at the congress of the VGCt (Dutch Association of                               Behavior and Cognitive Therapy), Veldhoven, The Netherlands.
-
-2011       Cognitive Mediation of Cognitive-behavioral Therapy Outcomes for                                       Adolescent School Refusal. Invited presentation given at the 41st Annual                  Congress of the European Association for Behavioral and Cognitive                                                       Therapies, Reykjavik, Iceland.
-
-2011       Treatment of school refusal. Invited lecture given at the department of                            Developmental Psychology, Free University Amsterdam, Amsterdam, The                     Netherlands. 
-
-2011   Cognitive Mediation of Cognitive-behavioral Therapy Outcomes for                                            Adolescent School Refusal. Invited presentation given at the VGCt                                              congress of the Dutch Association of Psychiatry, Amsterdam, The                                                              Netherlands.
-
-2010       Modular cognitive-behavioural intervention for school-refusing                                           adolescents: Mediators of treatment outcomes. Invited presentation given                                     at the 6th Annual ‘Jeugd in Onderzoek’ \[Youth in Research\] Conference                           (Het Ministerie voor Jeugd en Gezin, ZonMw, RIVM/Centrum                                                                    Jeugdgezondheid en het Nederlands Jeugdinstituut), Nieuwegein, The                             Netherlands.
-
-2009       Cognitive Mediation and Moderation of CBT for Anxiety-Based School                              Refusal. Paper presented at the 39th Annual European Association for                            Behavioral and Cognitive Therapies Congress, Dubrovnik, Croatia.
-
-2007       Modularized Educational Support Therapy for anxious school refusers, parents and school staff.         Designed and provided 10-day workshop to clinicians and research                         co-workers. Curium, Oegstgeest.
-
-2007       Research assessment methods in clinical settings. Designed and provided 3-day workshop to             clinicians. Curium, Oegstgeest.
-
-2006       Mediators and moderators of cognitive-behavioural treatment for youth anxiety.
-
-                  Invited presentation given at Curium, Child and Adolescent Psychiatry, Oegstgeest, The         Netherlands.
+Stikkelbroek, Y. A. J. (2016). _Turning depression inside out: Life events, cognitive emotion regulation and treatment in adolescents_ \[Doctoral Dissertation, Utrecht University\]. [https://dspace.library.uu.nl/handle/1874/335981](https://dspace.library.uu.nl/handle/1874/335981)
