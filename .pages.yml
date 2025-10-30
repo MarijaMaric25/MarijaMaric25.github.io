@@ -42,7 +42,7 @@ content:
                   - name: href
                     label: File path
                     type: string
-                    pattern: ^[A-Za-z]+.qmd$
+                    pattern: ^/?([^/ ]+/?)*[^/ ]*.qmd$
       - name: format
         type: object
         fields:
