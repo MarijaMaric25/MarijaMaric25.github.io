@@ -3,19 +3,17 @@ title: Valorisation
 ---
 ## **Infographic: How to do your own single-case study?**
 
-Based on frequent questions we get, we created this 10-step guide that can help you start with your own singe-case study.
+Infographic: 10-step guide that can help you start with your own singe-case study.
 
 Other infographics - How to...conduct SCED data-analysis? - follows soon!
 
 ## **Training**
 
-We have experience in providing group trainings and supervision, and individual guidance to scientist-practitioners interested in designing and conducting their own single-case research either in the context of postdoctoral therapist trainings or just because we want to learn more about our clients!
+We provide group trainings and supervision, and individual guidance to scientist-practitioners interested in designing and conducting their own single-case research.
 
 ## **Open Science**
 
-Our projects are preregistred and our code for data-analyses is shared.
-
-For the MetaSCED project, all data and analyzes code are published online, together with our publications. With Data Science Center we created this online user-friendly interface for the collection of single-case data, that can be used freely by other researchers [https://scedmeta.pages.uva-hva.gitlab.host/scedmeta-forms-validator/](https://scedmeta.pages.uva-hva.gitlab.host/scedmeta-forms-validator/) Further, we are currently collaborating with AI scientists developing methods to extract single-case data from published pdf’s. Once finished and piloted, these AI tools will be made available online. We are aware of the threaths of AI for the climate, and are continuously searching for guidelines that help us use AI in a responsible way. The ultimate goal of MetaSCED project is to create an Open Access data base with the collection of all published single-case studies.
+Our projects are preregistred and our code for data-analyses is shared. For the MetaSCED project, all data is published online. With Data Science Center we created this online user-friendly interface for the collection of single-case data, that can be used freely by other researchers [https://scedmeta.pages.uva-hva.gitlab.host/scedmeta-forms-validator/](https://scedmeta.pages.uva-hva.gitlab.host/scedmeta-forms-validator/) Further, we are currently collaborating with AI scientists developing methods to extract single-case data from published studies. Once finished and piloted, these AI tools will be made available online. The ultimate goal of MetaSCED project is to create an Open Access data base with data of all published single-case studies.
 
 ## **Publications, presentations, workshops**
 
